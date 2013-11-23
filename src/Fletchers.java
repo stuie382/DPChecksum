@@ -25,3 +25,10 @@ public class Fletchers {
         return sum1 + (sum2 * 256);
     }
 }
+/**
+ * Sample input data below
+ * 3
+ Fletcher
+ Sally sells seashells by the seashore.
+ Les chaussettes de l'archi-duchesse, sont-elles seches ou archi-seches ?
+ * */
